@@ -28,7 +28,7 @@
     function waltz() {
         var div = $('<div>');
         div.css({'float': 'right', 'top': '0px', 'z-index': 9999999, 'position': 'absolute' });
-        div.html('<img src="http://constructionphilippines.com/wp-content/uploads/2014/06/Monark-Caterpillar-construction-equipment-slide-03.jpg" />');
+        div.html('<img src="https://files.slack.com/files-pri/T07V5NE3C-F4KDUUGUR/ezgif.com-resize.gif" />');
         div.appendTo($('body'));
 	
 	setTimeout(function () {
